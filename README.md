@@ -10,7 +10,7 @@ After the library is installed, connect the components;
 *	Optional
 Once all that's done, just connect the Arduino to the computer and upload the code!
 
->Make sure you:
+Make sure you:
   *	Clap loud
   *	Adjust mic sensitivity
   *	Change code to fit any new additions
